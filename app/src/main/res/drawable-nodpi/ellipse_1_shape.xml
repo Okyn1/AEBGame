@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ellipse_1 from your XD file. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+	android:shape="oval" >
+	<stroke android:color="#ffffff" android:width="1dp" />
+	<solid android:color="@color/_bg__iphone_13_pro_max___mainmenu_ek2_color" />
+</shape>
+

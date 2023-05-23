@@ -1,0 +1,135 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		iphone_13_pro_max___mainmenu
+	 *	@date 		Sunday 26th of March 2023 02:13:53 PM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/iphone_13_pro_max___mainmenu" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_iphone_13_pro_max___mainmenu_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__iphone_13_pro_max___mainmenu_ek2"
+					android:background="@drawable/_bg__iphone_13_pro_max___mainmenu_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="428dp"
+					android:layout_height="926dp" />
+
+				<View   android:id="@+id/rectangle_1"
+					android:background="@drawable/rectangle_1_shape"
+					 android:alpha="0"
+					 android:layout_marginStart="16dp"
+					android:layout_marginTop="116dp"
+					android:layout_width="402dp"
+					android:layout_height="795dp" />
+
+				<TextView android:id="@+id/a_bout_game"
+					android:fontFamily="Inter"
+					android:textSize="32sp"
+					android:textColor="@color/a_bout_game_color"
+					android:layout_marginLeft="29dp"
+					android:layout_marginTop="854dp"
+					android:layout_width="293dp"
+					android:layout_height="73dp"
+					android:text="@string/a_bout_game_string"
+					 />
+
+				<TextView android:id="@+id/theme"
+					android:fontFamily="Inter"
+					android:textSize="32sp"
+					android:textColor="@color/a_bout_game_color"
+					android:layout_marginLeft="29dp"
+					android:layout_marginTop="765dp"
+					android:layout_width="293dp"
+					android:layout_height="73dp"
+					android:text="Тема○"
+					 />
+
+				<TextView android:id="@+id/a_b_game"
+					android:fontFamily="Inter"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="60sp"
+					android:textColor="@color/a_bout_game_color"
+
+					android:layout_marginTop="58dp"
+					android:layout_width="match_parent"
+					android:layout_height="92dp"
+					android:text="@string/a_b_game_string"
+					 />
+
+
+
+				<TextView android:id="@+id/level_1"
+					android:fontFamily="Inter"
+					android:textSize="32sp"
+					android:textColor="@color/a_bout_game_color"
+					android:layout_marginLeft="29dp"
+					android:layout_marginTop="225dp"
+					android:layout_width="293dp"
+					android:layout_height="73dp"
+					android:text="@string/level_1_string"
+					 />
+
+				<TextView android:id="@+id/level_2"
+					android:fontFamily="Inter"
+					android:textSize="32sp"
+					android:textColor="@color/a_bout_game_color"
+					android:layout_marginLeft="29dp"
+					android:layout_marginTop="315dp"
+					android:layout_width="293dp"
+					android:layout_height="73dp"
+					android:text="@string/level_2_string"
+					 />
+
+				<TextView android:id="@+id/level_3"
+					android:fontFamily="Inter"
+					android:textSize="32sp"
+					android:textColor="@color/a_bout_game_color"
+					android:layout_marginLeft="29dp"
+					android:layout_marginTop="405dp"
+					android:layout_width="293dp"
+					android:layout_height="73dp"
+					android:text="@string/level_3_string"
+					 />
+
+				<TextView android:id="@+id/level_4"
+					android:fontFamily="Inter"
+					android:textSize="32sp"
+					android:textColor="@color/a_bout_game_color"
+					android:layout_marginLeft="29dp"
+					android:layout_marginTop="495dp"
+					android:layout_width="293dp"
+					android:layout_height="73dp"
+					android:text="@string/level_4_string"
+					 />
+
+			</RelativeLayout>
+		</RelativeLayout>
+
+	</ScrollView>
+</ScrollView>

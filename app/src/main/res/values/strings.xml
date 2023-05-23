@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- iphone_13_pro_max___aboutgame strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="back_string">Back</string>
+	<string name="a_b_game_string">A=B</string>
+	<string name="_________________________string"> </string>
+	<string name="tutorial_string">Tutorial</string>
+	<string name="level_1_string">Уровень 1</string>
+	<string name="level_2_string">Уровень 2</string>
+	<string name="level_3_string">Уровень 3</string>
+	<string name="level_4_string">Уровень 4</string>
+	<string name="a_bout_game_string">От создателей</string>
+	<string name="theme_string">Сменить тему</string>
+	<string name="______________string">Текст задания</string>
+	<string name="___________string">Ввод вывод</string>
+	<string name="______________ek1_string">Поле для кода</string>
+	<string name="__________string">Отправить</string>
+</resources>

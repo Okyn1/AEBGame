@@ -1,0 +1,127 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		iphone_13_pro_max___game
+	 *	@date 		Monday 27th of March 2023 02:56:08 PM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/iphone_13_pro_max___game" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_iphone_13_pro_max___game_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__iphone_13_pro_max___game_ek2"
+					android:background="@drawable/_bg__iphone_13_pro_max___game_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="428dp"
+					android:layout_height="926dp" />
+
+				<View   android:id="@+id/rectangle_1"
+					android:background="@drawable/rectangle_1_shape"
+					 android:alpha="0"
+					android:layout_marginTop="13dp"
+					android:layout_width="402dp"
+					android:layout_height="908dp" />
+
+				<View   android:id="@+id/line_1"
+					android:background="@drawable/line_1_shape"
+					 android:layout_marginStart="17dp"
+					android:layout_marginTop="247dp"
+					android:layout_width="395dp"
+					android:layout_height="3dp" />
+
+				<View   android:id="@+id/line_2"
+					android:background="@drawable/line_2_shape"
+					 android:layout_marginStart="17dp"
+					android:layout_marginTop="368dp"
+					android:layout_width="395dp"
+					android:layout_height="3dp" />
+
+				<TextView
+					android:id="@+id/_____________"
+					android:layout_width="433dp"
+					android:layout_height="256dp"
+					android:layout_marginLeft="16dp"
+					android:layout_marginTop="13dp"
+					android:fontFamily="Inter"
+					android:text="@string/______________string"
+					android:textColor="@color/line_1_color"
+					android:textSize="32sp" />
+
+				<TextView android:id="@+id/__________"
+					android:fontFamily="Inter"
+					android:textSize="32sp"
+					android:textColor="@color/line_1_color"
+					android:layout_marginLeft="17dp"
+					android:layout_marginTop="247dp"
+					android:layout_width="432dp"
+					android:layout_height="140dp"
+					android:text="@string/___________string"
+					 />
+
+				<EditText
+					android:id="@+id/______________ek1"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:hint="Поле для кода"
+					android:layout_marginTop="460dp"
+					android:layout_marginStart="17dp"
+					android:textColor="#ffffff"
+					android:textColorHint="#474747"
+
+					android:textSize="24sp" />
+
+				<View   android:id="@+id/rectangle_2"
+					android:background="@drawable/rectangle_2_shape"
+					 android:layout_marginStart="17dp"
+					android:layout_marginTop="366dp"
+					android:layout_width="395dp"
+					android:layout_height="82dp" />
+
+				<TextView android:id="@+id/_________"
+					android:fontFamily="Inter"
+					android:textSize="32sp"
+					android:textColor="@color/_bg__iphone_13_pro_max___game_ek2_color"
+					android:layout_marginLeft="131dp"
+					android:layout_marginTop="389dp"
+					android:layout_width="204dp"
+					android:layout_height="61dp"
+					android:text="@string/__________string"
+					 />
+
+				 <!--<ImageView android:id="@+id/vector"
+					android:src="@drawable/vector"
+					android:contentDescription="vector"
+					 android:layout_marginStart="370dp"
+					android:layout_marginTop="23dp"
+					android:layout_width="32.79dp"
+					android:layout_height="34.94dp" />-->
+
+			</RelativeLayout>
+		</RelativeLayout>
+
+	</ScrollView>
+</ScrollView>
